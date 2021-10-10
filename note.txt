@@ -1,0 +1,21 @@
+IMPORTANT
+THIS LITTLE PROJECT SAVE IMAGES IN THE SERVER NOT IN THE DATABASE
+WE GONNA SEE IN TRY3 HOW TO SAVE THE UPLOADED FILE ON THE DATABASE INSTEAD
+------------------------------------------------------------------------------------------
+to start the server run:
+cd D:\nodeAndExpress\myNodesCrap\try2
+npm run devStart
+-------------------------------------------------------------------------------------------
+
+To add to an existing github repo:
+git add .
+git commit -m "initial author Routes"
+git push
+
+To push to heroku
+git add .
+git commit -m "initial author Routes"
+git push heroku
+
+to deal with file upload we must install multer
+npm i multer
